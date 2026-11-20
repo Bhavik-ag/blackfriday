@@ -1,0 +1,15 @@
+{
+  "name": "post2all",
+  "url": "https://www.post2all.com/pricing?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=bfcm2026",
+  "description": "Manage your socials with AI agents: a social media scheduler for 15 networks that ChatGPT, Claude or any agent can use through the app, API, CLI or MCP",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "25% off the first year of any annual plan with code BFCM25",
+  "code": "BFCM25",
+  "pricing": "subscription",
+  "price": { "regular": 90, "sale": 67.5, "currency": "USD" },
+  "discount": 25,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-07",
+  "icon": "https://www.post2all.com/logo.png"
+}
